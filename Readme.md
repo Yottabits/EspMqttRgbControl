@@ -11,13 +11,13 @@ To get startet you need to
   - install the PubSubClient library
 
 Now you should replace the following parts in the Code:
-    - WIFISSID to you WiFis SSID
-    - WIFIPWD to you WiFis password
-    - to your MQTT Brokers address
-    - USER to the user name of your MQTT Broker. Leave blank if anonymous login is allowed
-    - PASSWORD to the password of your MQTT Broker. Leave blank if anonymous login is allowed
-    - /YOUR/TOPIC/PATH to topic path you want to use
-    - YOURDEVICENAME to the device name you want to use
+  - WIFISSID to you WiFis SSID
+  - WIFIPWD to you WiFis password
+  - to your MQTT Brokers address
+  - USER to the user name of your MQTT Broker. Leave blank if anonymous login is allowed
+  - PASSWORD to the password of your MQTT Broker. Leave blank if anonymous login is allowed
+  - /YOUR/TOPIC/PATH to topic path you want to use
+  - YOURDEVICENAME to the device name you want to use
 
 If you need to change the output pins, feel free to do so.
 
